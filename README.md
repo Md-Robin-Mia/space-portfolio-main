@@ -70,6 +70,7 @@ space-portfolio/
   |- eslint.config.mjs
   |- netlify.toml
   |- next.config.js
+  |- package-lock.json
   |- package.json
   |- pnpm-lock.yaml
   |- pnpm-workspace.yaml
